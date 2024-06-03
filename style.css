@@ -5,8 +5,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;
 }
-.bodyMood{
-    background:linear-gradient(to right, rgb(187, 255, 255) 60%, rgb(234, 234, 208)) ;
+
+.bodyMood {
+    background: linear-gradient(to right, rgb(187, 255, 255) 60%, rgb(234, 234, 208));
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;
 }
@@ -84,6 +85,7 @@ body {
     /* filter: grayscale(80%); */
     filter: saturate(20);
 }
+
 /* .image-light,
 .image-test-light{
     background-color: rgb(255, 255, 255);
@@ -109,7 +111,7 @@ body {
     box-shadow: 6px 6px 12px #ffb4b4, -6px -6px 12px #d7f1ff;
     color: #f0f0f0;
     position: absolute;
-    left: 0px;
+    left: 30px;
     top: 10%;
 }
 
